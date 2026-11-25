@@ -1,0 +1,7 @@
+numpy
+scipy
+numba        # strongly recommended: without it the code runs in pure Python (very slow)
+daqp         # the dual active-set QP solver of ref. [2] (default solver)
+tadasets
+openpyxl
+gudhi        # optional, only for validate_against_gudhi.py

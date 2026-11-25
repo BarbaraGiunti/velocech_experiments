@@ -1,0 +1,21 @@
+{
+  "implementation": "gudhi",
+  "status": "ok",
+  "precision": "safe",
+  "input": "C:/Users/bg791928/Dropbox/Albany/Papers/velocech/alphadual_benchmark/gudhi_alpha/startup_test.csv",
+  "N": 3,
+  "m": 2,
+  "max_dim": 2,
+  "r": "inf",
+  "a1": "inf",
+  "alpha_time_s": 0.000191300,
+  "read_time_s": 0.000148900,
+  "compute_time_s": 0.000042400,
+  "write_time_s": 0.000246800,
+  "peak_memory_mb": 0.9,
+  "n_simplices": [3, 3, 1],
+  "n_vertices": 3,
+  "n_edges": 3,
+  "n_triangles": 1,
+  "max_value": 0.5
+}
